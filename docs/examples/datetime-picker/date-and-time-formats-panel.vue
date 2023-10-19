@@ -7,7 +7,7 @@
         placeholder="Pick a Date"
         format="YYYY-MM-DD HH:mm:ss"
         date-format="MMM DD, YYYY"
-        time-format="HH:mm"
+        time-format="HH"
       />
     </div>
     <div class="line" />
